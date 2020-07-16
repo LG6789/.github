@@ -1,0 +1,12 @@
+{
+    "name": "Organization Workflow",
+    "description": "Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Nodejs"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile*"
+    ]
+}
