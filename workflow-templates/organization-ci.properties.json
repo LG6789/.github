@@ -3,7 +3,7 @@
     "description": "Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Nodejs"
+        "node"
     ],
     "filePatterns": [
         "package.json$",
